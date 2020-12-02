@@ -1,5 +1,5 @@
 
-# Hadoop Mini Project
+Spark Mini Project
 ## 1. Problem Definition
 *  Filter out accidents with make and year
 *  Count number of accident occurrences for the vehicle make and year
